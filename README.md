@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Android Clock Live Wallpaper
 ===========================
 
@@ -9,3 +10,7 @@ Clock Live Wallpaper is also published on Google Play Store : https://play.googl
 
 ###Screenshot
 ![Screenshot] (https://github.com/ssaurel/android-clock-livewallpaper/blob/master/screenshot.png)
+=======
+# AndroidClock
+AndroidClock
+>>>>>>> aa51d745c22847e47946d005b9e3e46f98583866
