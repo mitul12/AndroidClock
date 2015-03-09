@@ -14,6 +14,7 @@ import android.view.View;
  * Analog Clock view
  * 
  * @author sylsau - sylvain.saurel@gmail.com - http://www.ssaurel.com
+ * test
  *
  */
 public class AnalogClock extends View {
