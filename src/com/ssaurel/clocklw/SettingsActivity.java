@@ -9,7 +9,7 @@ import android.widget.Toast;
 /**
  * Settings activity
  * 
- * @author sylsau - sylvain.saurel@gmail.com - http://www.ssaurel.com
+ * @author MITUL
  *
  */
 public class SettingsActivity extends PreferenceActivity {

@@ -15,7 +15,7 @@ import android.view.SurfaceHolder;
 /**
  * Clock wallpaper service
  * 
- * @author sylsau - sylvain.saurel@gmail.com - http://www.ssaurel.com
+ * @author MITUL
  *
  */
 public class ClockWallpaperService extends WallpaperService {

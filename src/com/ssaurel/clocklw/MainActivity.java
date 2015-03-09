@@ -12,7 +12,7 @@ import android.view.View;
 /**
  * Main Activity to set clock live wallpaper.
  * 
- * @author sylsau - sylvain.saurel@gmail.com - http://www.ssaurel.com
+ * @author MITUL
  * 
  */
 public class MainActivity extends Activity {
