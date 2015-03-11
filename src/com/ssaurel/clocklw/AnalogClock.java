@@ -12,9 +12,9 @@ import android.view.View;
 
 /**
  * Analog Clock view
- * build test1
+ *
  * @author MITUL
- * test
+ * 
  *
  */
 public class AnalogClock extends View {
