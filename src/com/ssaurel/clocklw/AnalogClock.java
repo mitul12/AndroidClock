@@ -12,7 +12,7 @@ import android.view.View;
 
 /**
  * Analog Clock view
- * 
+ * build test
  * @author MITUL
  * test
  *
